@@ -10,7 +10,7 @@ time = distance / speed
 energy = distance / mpk
 cost = energy * cost_per_kWh
 
-#Print outputs
+# Print outputs
 print(time)
 print(energy)
 print(cost)
